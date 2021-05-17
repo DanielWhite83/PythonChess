@@ -1,0 +1,4 @@
+0
+# 0 = cpu vs cpu
+# 1 = cpu vs. human
+# 2 = human vs. human
